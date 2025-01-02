@@ -1,2 +1,2 @@
-# amazone.clone
-This is my first project of amazone clone using html and css , without responsivness 
+# amazon.clone
+This is my first project of amazon clone using html and css , without responsivness 
