@@ -12,7 +12,5 @@ A static clone of the Amazon homepage created using only HTML and CSS. Designed 
 - CSS
 
 ## Live Preview
-[)
-
----
+[https://amarshri.github.io/amazon.clone/]
  
